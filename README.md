@@ -3,7 +3,7 @@
 # WAFKA - Web Assembly bindings for Kafka
 
 > [!WARNING]
-> This is a Work in Progress. `wasm-bindgen` can't automagically generated based on the `rdkafka` rust crate out of the box.
+> This is a Work in Progress. `wasm-bindgen` can't automagically generate based on the `rdkafka` rust crate out of the box.
 
 ## Goal
 
