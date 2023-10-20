@@ -5,4 +5,16 @@
 > [!WARNING]
 > This is a Work in Progress. `wasm-bindgen` can't automagically generated based on the `rdkafka` rust crate out of the box.
 
-The intention of this package is to create a reliable and fast way to write Kafka producers for running on edge networks (Deno, Netlify, etc.). 
+## Goal
+
+A reliable, fast, and secure way to write Kafka producers for running on edge networks (Deno, Netlify, etc.). 
+
+## Get Hacking
+
+### Build
+
+This package relies on [`wasmbuild`](https://github.com/denoland/wasmbuild) to make creating Web Assembly from Rust very easy. Install `deno` then run:
+
+```
+deno task wasmbuild
+```
