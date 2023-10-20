@@ -1,4 +1,4 @@
-![WAFKA Logo -- the Waluigi of Kafka](https://github.com/rgbkrk/wafka/assets/836375/0caee473-3183-4d4c-afd2-f59bb69cbca2)
+![WAFKA Logo -- the Waluigi of Kafka](https://github.com/rgbkrk/wafka/assets/836375/ee6747d3-3511-4515-80bd-3e1740a5aac0)
 
 
 # WAFKA - Web Assembly bindings for Kafka
